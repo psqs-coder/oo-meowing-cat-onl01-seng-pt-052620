@@ -1,5 +1,5 @@
 class Cat 
-  def .meow=(.meow)
+  def meow=(meow)
     @meow = meow 
   end
   
