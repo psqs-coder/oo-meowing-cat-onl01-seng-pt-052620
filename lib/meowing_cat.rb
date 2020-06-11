@@ -3,4 +3,9 @@ class Cat
     @meow = meow 
   end
 end
+
+def meow
+  @meow
+end
+
   
