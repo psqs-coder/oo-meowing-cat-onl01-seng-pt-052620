@@ -4,10 +4,4 @@ class Cat
   end
 end
 
-def meow
-  @meow
-end
-end
-
-
   
